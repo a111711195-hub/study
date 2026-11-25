@@ -1,4 +1,4 @@
-﻿# 큰 제목
+# 큰 제목
 ## 작은 제목
 ### 더 작은 제목
 #### 더더 작은 제목
@@ -21,7 +21,11 @@
 	* Alpha
 		* 0~1
 	* 0~255
-- ColorKey
+* ColorKey
+	* Style
+
+- Color
+	- Key
 	- Style
 
 + ColorKey
@@ -29,6 +33,24 @@
 	* Alpha
 		* H1
 
+
 This is normal paragraph :
+
 	This is a Code block.
+
 end Codeb lock
+
+``` c#
+public class Test : Monobehavior
+{
+	private void Start()
+	{
+	}
+}
+```
+
+수평선으로 가름
+
+---
+
+
